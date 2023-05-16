@@ -1,5 +1,6 @@
 # orient_solver
-An solver for orientplus made for my sister.
+A solver for orientplus made for my sister.
+because it is boring.
 
 a handy solver for [orientplus.ucll.be](https://orientplus.ucll.be/exercises) using a db with all posible answers.
 
