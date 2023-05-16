@@ -1,6 +1,7 @@
 # orient_solver
 A solver for orientplus made for my sister.
-because it is boring.
+
+because it's boring.
 
 a handy solver for [orientplus.ucll.be](https://orientplus.ucll.be/exercises) using a db with all posible answers.
 
